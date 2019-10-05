@@ -1,10 +1,10 @@
 # Mac-install-pwntools
 在Mac上安装pwntools时，遇到了很多问题，安了好几天，这里记录一下安装步骤，以防以后用到。
 ## 先安装以下环境
-sudo apt-get install libffi-dev
-sudo apt-get install libssl-dev
-sudo apt-get install python3
-sudo apt-get install python3-pip
+sudo apt-get install libffi-dev</br>
+sudo apt-get install libssl-dev</br>
+sudo apt-get install python3</br>
+sudo apt-get install python3-pip</br>
 
 ## 在安装pwntools时首先安装Capstone
 命令：</br>
